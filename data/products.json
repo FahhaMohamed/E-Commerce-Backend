@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+        "rating": "4.5",
+        "images": [
+            
+            {
+                "image": "https://imgaz1.staticbg.com/thumb/view/oaupload/banggood/images/88/26/af6b9661-cb62-4274-8363-7e247a88dc4b.jpg"
+            },
+
+            {
+                "image": "https://image.made-in-china.com/202f0j00IkahFQBMnObL/Wireless-Bluetooth-Headphones-Deep-Bass-Sound-Gaming-Headset-with-Microphone.webp"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "TechWorld",
+        "stock": 15,
+        "numOfReviews": 256,
+        "reviews": [
+            {
+                "name": "John Doe",
+                "rating": "5",
+                "comment": "Excellent headphones with great sound quality."
+            },
+            {
+                "name": "Jane Smith",
+                "rating": "4",
+                "comment": "Very comfortable but a bit pricey."
+            }
+        ],
+        "createdAt": "2024-05-31T12:00:00Z"
+    },
+    {
+        "name": "Stainless Steel Water Bottle",
+        "price": 19.99,
+        "description": "Durable and insulated water bottle, keeps beverages cold for up to 24 hours.",
+        "rating": "4.7",
+        "images": [
+            {
+                "image": "https://t4.ftcdn.net/jpg/03/73/22/35/360_F_373223579_DvBOstxJGIDYHMDbGCLrvQVNaGIZU4OY.jpg"
+            },
+            {
+                "image": "https://media.istockphoto.com/id/1423379549/vector/blank-metal-insulated-water-bottle-vector-mockup-reusable-stainless-steel-travel-sport-flask.jpg?s=612x612&w=0&k=20&c=mXeJNB9xF7jh2Q8mGxkuenoyhEcgxdaBx9BaffVDb6k="
+            }
+        ],
+        "category": "Home",
+        "seller": "HomeEssentials",
+        "stock": 10,
+        "numOfReviews": 87,
+        "reviews": [
+            {
+                "name": "Alice Johnson",
+                "rating": "5",
+                "comment": "Fantastic bottle, keeps my water cold all day."
+            },
+            {
+                "name": "Bob Brown",
+                "rating": "4",
+                "comment": "Good quality but a bit heavy."
+            }
+        ],
+        "createdAt": "2024-05-31T12:00:00Z"
+    },
+    {
+        "name": "Smart LED Light Bulb",
+        "price": 12.99,
+        "description": "Energy-efficient LED bulb with customizable colors and smart home integration.",
+        "rating": "4.3",
+        "images": [
+            {
+                "image": "https://www.wyze.com/cdn/shop/products/WyzeBulbColorBR30MainCarousel-03.jpg?v=1669054708&width=1946"
+            },
+            {
+                "image": "https://us-cdn.nanoleaf.me/assets/img/products/shop/bulbs/a19-e26/1pk/1-essentials-matter-bulb-a19-a60-single-mobile@1x.jpg"
+            }
+        ],
+        "category": "Home",
+        "seller": "SmartHome",
+        "stock": 8,
+        "numOfReviews": 190,
+        "reviews": [
+            {
+                "name": "Charlie Davis",
+                "rating": "4",
+                "comment": "Great bulb, easy to set up and use."
+            },
+            {
+                "name": "Dana Lee",
+                "rating": "3.5",
+                "comment": "Works well but the app could be improved."
+            }
+        ],
+        "createdAt": "2024-05-31T12:00:00Z"
+    },
+    {
+        "name": "Yoga Mat with Carrying Strap",
+        "price": 29.99,
+        "description": "Eco-friendly yoga mat with non-slip surface and comfortable cushioning.",
+        "rating": "4.6",
+        "images": [
+            {
+                "image": "https://rhythmichouse.gr/wp-content/uploads/2020/04/products-yoga-mat-double-layer.jpg"
+            },
+            {
+                "image": "https://i5.walmartimages.com/seo/Performance-Yoga-Mat-with-Carrying-Straps_7e0760ac-325b-4fd0-9e86-1e531b85f144.214638782bb6a116665a323bc01c9905.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+            }
+            
+        ],
+        "category": "Sports",
+        "seller": "FitLife",
+        "stock": 5,
+        "numOfReviews": 112,
+        "reviews": [
+            {
+                "name": "Eve Kim",
+                "rating": "5",
+                "comment": "Perfect mat for yoga, great grip and comfort."
+            },
+            {
+                "name": "Frank Miller",
+                "rating": "4.5",
+                "comment": "Love this mat, but it could be a bit thicker."
+            }
+        ],
+        "createdAt": "2024-05-31T12:00:00Z"
+    },
+    {
+        "name": "Digital Alarm Clock",
+        "price": 24.99,
+        "description": "Compact alarm clock with LED display, USB charging port, and multiple alarm sounds.",
+        "rating": "4.2",
+        "images": [
+            {
+                "image": "https://media.karousell.com/media/photos/products/2021/8/21/bnib_digital_alarm_clock_with__1629524728_9aca793f_progressive"
+            },
+            {
+                "image": "https://t3.ftcdn.net/jpg/04/37/78/82/360_F_437788217_5k0hx7dYdsSmNrcXL4bDUd8y6vzyBVe6.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Timekeepers",
+        "stock": 12,
+        "numOfReviews": 134,
+        "reviews": [
+            {
+                "name": "Grace Wilson",
+                "rating": "4",
+                "comment": "Very functional alarm clock, easy to use."
+            },
+            {
+                "name": "Henry Thomas",
+                "rating": "3.5",
+                "comment": "Good clock but the display is too bright at night."
+            }
+        ],
+        "createdAt": "2024-05-31T12:00:00Z"
+    }
+]
